@@ -39,5 +39,4 @@ void main()
 		cout << "Вы промахнулись" << endl;
 	}
 #endif
-
 }
