@@ -7,7 +7,6 @@ using std::endl;
 //#define TEMPERATURE
 #define TARGET
 
-
 void main()
 {
 	setlocale(LC_ALL, "");
