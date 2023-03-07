@@ -5,7 +5,7 @@ using std::cout;
 using std::endl;
 
 //#define TEMPERATURE
-//#define TARGET
+#define TARGET
 
 
 void main()
